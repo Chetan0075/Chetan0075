@@ -64,8 +64,6 @@ WHERE goal = 'career_growth';
 ![Power BI](https://img.shields.io/badge/PowerBI-111111?style=for-the-badge&logo=powerbi)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
 
 </div>
 
@@ -123,37 +121,6 @@ WHERE goal = 'career_growth';
 
 ---
 
-# 🧠 Current Learning Path
-
-```text
-SQL
- ┣━━ Advanced Queries
- ┣━━ Window Functions
- ┣━━ Business Analytics
- ┗━━ Real Datasets
-
-Python
- ┣━━ Pandas
- ┣━━ Automation
- ┗━━ Data Analysis
-
-Power BI
- ┣━━ Dashboards
- ┣━━ KPI Tracking
- ┗━━ Business Insights
-```
-
----
-
-# 🎯 2026 Goals
-
-- Build strong Data Analyst portfolio
-- Master SQL deeply
-- Create advanced analytics projects
-- Improve problem solving
-- Contribute consistently on GitHub
-- Build income through tech skills
-- Become industry-ready
 
 ---
 
