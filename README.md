@@ -69,15 +69,6 @@ WHERE goal = 'career_growth';
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chetan0075&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0075&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
 
 ---
 
