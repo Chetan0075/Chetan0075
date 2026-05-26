@@ -102,13 +102,7 @@ WHERE goal = 'career_growth';
 
 ---
 
-# 🔝 Top Contributed Repositories
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Chetan0075&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
 
 ---
 
@@ -129,7 +123,7 @@ WHERE goal = 'career_growth';
 
 # ⚡ CRX Philosophy
 
-```text
+```
 No excuses.
 No shortcuts.
 No fake productivity.
