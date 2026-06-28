@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Chetan Suraswal Aka CRX ⚡
+# ⚡ Chetan Suraswal aka CRX ⚡
 ### `Data Analyst • Developer • Builder • Problem Solver`
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;SQL+%7C+Python+%7C+Power+BI+%7C+Web+Development;Discipline+%2B+Consistency+%2B+Execution;Future+Data+Analyst+%26+Tech+Builder" />
